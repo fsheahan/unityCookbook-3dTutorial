@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/starWars.unity
+- path: Assets/1_11_Radar.unity
   isLoaded: 1
   isActive: 1
